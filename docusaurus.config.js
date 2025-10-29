@@ -14,23 +14,19 @@ const config = {
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
 
-  // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
+  // Set the production url of your site here
+  url: 'https://Desben13.github.io', // Your GitHub Pages URL
+  baseUrl: '/DES-Documentation/', // The repository name, preceded by a slash
+  organizationName: 'Desben13', // Your GitHub username
+  projectName: 'DES-Documentation', // Your repository name
+  deploymentBranch: "gh-pages", // Deployment branch for GitHub Pages
+  onBrokenLinks: 'throw',
+  onBrokenMarkdownLinks: 'warn',
+
+   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
     v4: true, // Improve compatibility with the upcoming Docusaurus v4
   },
-
-  // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
-
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
-
-  onBrokenLinks: 'throw',
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
