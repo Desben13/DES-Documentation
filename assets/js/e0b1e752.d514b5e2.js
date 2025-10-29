@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkdes_documentation=globalThis.webpackChunkdes_documentation||[]).push([[7426],{854:o=>{o.exports=JSON.parse('{"metadata":{"permalink":"/DES-Documentation/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
