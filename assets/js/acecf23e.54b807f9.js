@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkdes_documentation=globalThis.webpackChunkdes_documentation||[]).push([[1903],{1912:o=>{o.exports=JSON.parse('{"blogBasePath":"/DES-Documentation/blog","blogTitle":"Blog","authorsListPath":"/DES-Documentation/blog/authors"}')}}]);
